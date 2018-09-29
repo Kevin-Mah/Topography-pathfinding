@@ -1,0 +1,1 @@
+This is a topography pathfinding that uses A* and best-first and compares the two outcomes. It was coded in python and tested and debugged in Visual Studio.
